@@ -1,23 +1,30 @@
 # 🔐 Password Generator App
 
-A simple and responsive React-based password generator that allows users to create strong, random passwords with custom options for length, numbers, and special characters. Built using React Hooks and styled with TailwindCSS.
+A simple, responsive, and customizable password generator built with **React** and **Tailwind CSS**. This app allows users to create strong, random passwords with various options, ensuring both usability and security.
 
 ---
 
 ## 🚀 Features
 
-- 📏 Adjustable password length (6 to 100 characters)
-- 🔢 Option to include numbers
-- 🔣 Option to include special characters
-- 📋 One-click copy to clipboard
-- ⚡ Instant password generation using React Hooks
+- 📏 Adjustable password length (from **6 to 100** characters)
+- 🔢 Toggle to include **numbers**
+- 🔣 Toggle to include **special characters** (like `@#$%&*!`)
+- 🔡 Always includes **uppercase and lowercase** characters
+- 📋 **One-click copy** to clipboard
+- ⚡ **Instant generation** with React Hooks
+- 💡 **Responsive UI** with dark mode support (optional)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **React** (with Hooks like `useState`, `useEffect`, `useRef`, and `useCallback`)
-- **Tailwind CSS** for fast and responsive styling
+- ⚛️ **React** (functional components using:
+  - `useState` for state handling  
+  - `useEffect` for side effects  
+  - `useRef` for clipboard copying  
+  - `useCallback` for optimized event handling)
+- 🎨 **Tailwind CSS** for styling (utility-first and responsive)
+- 🔗 **HTML5 Clipboard API** for copy functionality
 
 ---
 
