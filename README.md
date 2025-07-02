@@ -28,4 +28,23 @@ A simple, responsive, and customizable password generator built with **React** a
 
 ---
 
+## 🧑‍💻 Getting Started
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/Prat260104/Password-Generator.git
+cd Password-Generator
+```
+
+---
+
+###2. Install dependencies
+```bash
+npm install
+```
+
+
+
+
 
