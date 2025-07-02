@@ -39,9 +39,16 @@ cd Password-Generator
 
 ---
 
-###2. Install dependencies
+### 2. Install dependencies
 ```bash
 npm install
+```
+
+---
+
+### 3. Start development server
+```bash
+npm run dev
 ```
 
 
