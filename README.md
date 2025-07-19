@@ -50,13 +50,4 @@ npm run dev
 ```
 ---
 
-Password-Generator/
-├── src/
-│   ├── components/
-│   ├── App.jsx
-│   └── main.jsx
-├── public/
-│   └── index.html
-├── tailwind.config.js
-├── vite.config.js
-└── package.json
+
