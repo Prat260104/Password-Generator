@@ -50,16 +50,13 @@ npm run dev
 ```
 ---
 
-### Project Structure 
-
 Password-Generator/
 ├── src/
 │   ├── components/
 │   ├── App.jsx
-│   ├── main.jsx
+│   └── main.jsx
 ├── public/
-├── index.html
+│   └── index.html
 ├── tailwind.config.js
 ├── vite.config.js
 └── package.json
-
